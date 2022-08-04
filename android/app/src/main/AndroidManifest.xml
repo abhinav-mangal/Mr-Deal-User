@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.soradis.mr_deal_user">
+    package="com.example.mr_deal_user">
          <queries>
          <intent>
              <action android:name="android.intent.action.DIAL" />
@@ -8,7 +8,7 @@
      </queries>
    <application
         android:label="MR DEAL"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/launcher_icon"
         android:usesCleartextTraffic="true"
         android:exported = "true">
         <meta-data android:name="com.google.android.geo.API_KEY"

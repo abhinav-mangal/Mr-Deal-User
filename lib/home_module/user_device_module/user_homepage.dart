@@ -859,7 +859,7 @@ class _UserHomePageState extends State<UserHomePage> implements HomepageView {
               child: Column(
                 children: <Widget>[
                   const TextWidget(
-                    text: 'Reparing cost for your searched device',
+                    text: 'Repairing cost for your searched device',
                     size: text_size_15,
                     weight: FontWeight.w600,
                     alignment: TextAlign.center,

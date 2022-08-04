@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mr_deal_user">
+    package="com.soradis.mr_deal_user">
          <queries>
          <intent>
              <action android:name="android.intent.action.DIAL" />
@@ -12,7 +12,9 @@
         android:usesCleartextTraffic="true"
         android:exported = "true">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDfGXj8CkiwHqpJ40xLq7mdwi60Iwc3C_0"/>
+               android:value="AIzaSyAm80GaMvxX30EZeAnB9AruYeHeQ3Rbwxk"/>
+        <!-- <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyDfGXj8CkiwHqpJ40xLq7mdwi60Iwc3C_0"/> -->
         <activity
             android:name=".MainActivity"
             android:exported="true"

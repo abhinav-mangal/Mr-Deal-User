@@ -120,13 +120,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.5"
-  device_info_csx:
-    dependency: "direct main"
-    description:
-      name: device_info_csx
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.0"
   device_info_plus:
     dependency: "direct main"
     description:
@@ -169,13 +162,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.1"
-  device_information:
-    dependency: "direct main"
-    description:
-      name: device_information
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.4"
   eventify:
     dependency: transitive
     description:
